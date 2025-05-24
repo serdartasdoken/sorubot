@@ -6,7 +6,7 @@ export const GEMINI_TEXT_MODEL = "gemini-2.5-flash-preview-04-17";
 
 export const DEFAULT_NUM_QUESTIONS = 5;
 export const MIN_QUESTIONS = 1;
-export const MAX_QUESTIONS = 19; // Users can select up to 19 questions (less than 20)
+export const MAX_QUESTIONS = 20; // Users can select up to 20 questions
 
 export const DIFFICULTIES = [Difficulty.Easy, Difficulty.Medium, Difficulty.Hard];
 
