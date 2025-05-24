@@ -1,0 +1,6 @@
+{
+  "name": "Sorubot - Akıllı Sınav Oluşturma",
+  "description": "Kullanıcıların yüklediği PDF ve Word belgelerinden, seçilen zorluk seviyesine göre yapay zeka destekli sorular üreten, açıklamalı cevaplar sunan bir web uygulaması.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
